@@ -1,4 +1,4 @@
-# Bachelor Thesis - The power of compressors: Exploring text classification tasks using compressors
+# Bachelor Thesis - The power of compressors: Exploring text classification tasks using gzip compressor
 
 ## Introduction
 
