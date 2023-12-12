@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository contains the source code and documentation for my bachelor thesis project, titled "The power of compressors: Exploring text classification tasks using compressors". The project aims to discover the usage of the gzip compressor based text classifier, in comparison to Standard NLP Classifier such as Decision Trees, Naive Bayes and BERT on three core datasets and three more popular text classification datasets.
+This repository contains the source code and documentation for my bachelor thesis project, titled "The power of compressors: Exploring text classification tasks using gzip compressor". The project aims to discover the usage of the gzip compressor based text classifier, in comparison to Standard NLP Classifier such as Decision Trees, Naive Bayes and BERT on three core datasets and three more popular text classification datasets.
 
 ## Table of Contents
 
